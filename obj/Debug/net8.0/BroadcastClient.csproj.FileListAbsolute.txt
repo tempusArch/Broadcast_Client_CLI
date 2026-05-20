@@ -1,0 +1,14 @@
+C:\Users\homage\BroadcastClient\bin\Debug\net8.0\BroadcastClient.exe
+C:\Users\homage\BroadcastClient\bin\Debug\net8.0\BroadcastClient.deps.json
+C:\Users\homage\BroadcastClient\bin\Debug\net8.0\BroadcastClient.runtimeconfig.json
+C:\Users\homage\BroadcastClient\bin\Debug\net8.0\BroadcastClient.dll
+C:\Users\homage\BroadcastClient\bin\Debug\net8.0\BroadcastClient.pdb
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.AssemblyInfoInputs.cache
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.AssemblyInfo.cs
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.csproj.CoreCompileInputs.cache
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.dll
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\refint\BroadcastClient.dll
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.pdb
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\BroadcastClient.genruntimeconfig.cache
+C:\Users\homage\BroadcastClient\obj\Debug\net8.0\ref\BroadcastClient.dll
